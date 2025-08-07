@@ -9,3 +9,4 @@ FPGA-based pulser-receiver (P/R) system for experimental investigation of conven
 * FPGA_Conn - Samtec connector for FPGA board
 * TX_MD213x - MD213x schematic circuit
 * Voltage_Regulator_PR - Low voltage regulator circuit
+* BOM_1532-PCI UltrasounTx_Rx - Bill of material

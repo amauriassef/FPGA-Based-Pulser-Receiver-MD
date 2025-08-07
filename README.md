@@ -4,10 +4,8 @@ FPGA-based pulser-receiver (P/R) system for experimental investigation of conven
 
 ## Files 
  
-* Amauri Amorin Assef – Coordenador – http://lattes.cnpq.br/0720172921923496
-* Guilherme Luiz Moritz – Colaborador – http://lattes.cnpq.br/0736175449254807
-* Delvanei Gomes Bandeira Junior – Colaborador – http://lattes.cnpq.br/2233204054325472
-* Guilherme de Santi Peron – Colaborador –  http://lattes.cnpq.br/7845448730478685
-* Maurício dos Santos Kaster – Colaborador – http://lattes.cnpq.br/5494434934031784
-* Murilo Paulo de Oliveira – Bolsista – http://lattes.cnpq.br/1578999659029568
-* Cáled Tarique Pereira – Voluntário – http://lattes.cnpq.br/5596843081337675
+* ADC_PR – 12-bit 80MSPS ADC schematic file
+* DAC_PR - Serial DAC for gain control using the VCA810
+* FPGA_Conn - Samtec connector for FPGA board
+* TX_MD213x - MD213x schematic circuit
+* Voltage_Regulator_PR - Low voltage regulator circuit

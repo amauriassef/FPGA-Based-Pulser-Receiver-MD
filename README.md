@@ -13,6 +13,6 @@ FPGA-based pulser-receiver (P/R) system for experimental investigation of chirp-
 
 I hope you find this documentation useful for your ultrasound research. 
 
-Sincerely
+Sincerely,
 
 Amauri Amorin Assef ([link](http://paginapessoal.utfpr.edu.br/amauriassef))

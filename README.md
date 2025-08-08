@@ -10,3 +10,9 @@ FPGA-based pulser-receiver (P/R) system for experimental investigation of conven
 * TX_MD213x - MD213x schematic circuit
 * Voltage_Regulator_PR - Low voltage regulator circuit
 * BOM_1532-PCI UltrasounTx_Rx - Bill of material
+
+I hope you find this documentation useful for your ultrasound research. 
+
+Sincerely
+
+Amauri Amorin Assef

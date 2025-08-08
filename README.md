@@ -1,6 +1,6 @@
 ## Description
 
-FPGA-based pulser-receiver (P/R) system for experimental investigation of conventional and chirp-coded excitation and pulse compression methods for ultrasound research. The P/R board can be connected to the DE2-115 PGA Development and Education Kit, from [Terasic Inc. (Hsinchu, Taiwan)](https://www.terasic.com.tw/en/), through a High-Speed Mezzanine Card (HSMC) interface.
+FPGA-based pulser-receiver (P/R) system for experimental investigation of chirp-coded excitation and pulse compression methods for ultrasound research. The P/R board can be connected to the DE2-115 PGA Development and Education Kit, from [Terasic Inc. (Hsinchu, Taiwan)](https://www.terasic.com.tw/en/), through a High-Speed Mezzanine Card (HSMC) interface.
 
 ## Files 
  

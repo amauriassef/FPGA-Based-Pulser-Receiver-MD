@@ -15,4 +15,4 @@ I hope you find this documentation useful for your ultrasound research.
 
 Sincerely
 
-Amauri Amorin Assef
+Amauri Amorin Assef ([link](http://paginapessoal.utfpr.edu.br/amauriassef))
